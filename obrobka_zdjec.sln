@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "obrobka_zdjec", "obrobka_zdjec\obrobka_zdjec.vcxproj", "{103EB3E6-B0D4-4A60-83F4-AD52D617F606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE3EF081-7B3D-4A8A-BB32-31D3B98381A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103EB3E6-B0D4-4A60-83F4-AD52D617F606}.Debug|Win32.ActiveCfg = Debug|Win32
+		{103EB3E6-B0D4-4A60-83F4-AD52D617F606}.Debug|Win32.Build.0 = Debug|Win32
+		{103EB3E6-B0D4-4A60-83F4-AD52D617F606}.Release|Win32.ActiveCfg = Release|Win32
+		{103EB3E6-B0D4-4A60-83F4-AD52D617F606}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
